@@ -1,3 +1,0 @@
-
-# eljabrichaymae.github.io
-hello
