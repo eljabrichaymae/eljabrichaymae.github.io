@@ -320,11 +320,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // Apply debounce to scroll-heavy functions
     window.addEventListener('scroll', debounce(setActiveLink, 10));
     
-    // ===================================
-    // Console Message
-    // ===================================
     
-    console.log('%c👋 Welcome to Chaymae El Jabri\'s CV!', 'color: #a78bfa; font-size: 20px; font-weight: bold;');
-    console.log('%cInterested in the code? Check out the source!', 'color: #60a5fa; font-size: 14px;');
     
 });
